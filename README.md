@@ -27,7 +27,7 @@
 3. Navigate to the project directory and run the application with the following command:
 
 ```csharp
-dotent build
+dotnet build
 ```
 ```csharp
 dotent run
