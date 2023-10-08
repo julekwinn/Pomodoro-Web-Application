@@ -25,6 +25,10 @@
 2. Ensure you have the necessary tools for working with .NET and Blazor Web Assembly installed.
 
 3. Navigate to the project directory and run the application with the following command:
+
+```csharp
+dotent build
+```
 ```csharp
 dotent run
 ```
