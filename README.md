@@ -1,5 +1,6 @@
-#Pomodoro Application 🍅
+<h1>Pomodoro Application 🍅</h1>
 
+![pomodoro desktop](https://github.com/julekwinn/Pomodoro-Web-Application/assets/126665165/3b7b72db-ddca-46b0-aa88-d6683f02bcdb)
 
 **Pomodoro Application** is a minimalist and modern web application created using .NET Blazor Web Assembly. Its purpose is to help you focus on tasks and effectively manage your time using the simple and effective Pomodoro technique.
 
@@ -27,7 +28,6 @@ To start using the Plain Pomodoro Application, follow these steps:
 ```csharp
 dotent run
 ```
-
 4. The application will be accessible at `http://localhost:5000` in your web browser.
 
 ## 📝 Author
@@ -38,11 +38,13 @@ This project was created by Juliusz Winnicki.
 
 If you have any questions or suggestions regarding the Plain Pomodoro Application, please contact us at julek.winn@gmail.com.
 
-## 📄 License
-
-:)
-
 ## 🙏 Acknowledgments
 
-Thank you for using the Plain Pomodoro Application! I hope it helps increase your productivity and focus. 🚀🍅
+Thank you for using the Pomodoro Application! I hope it helps increase your productivity and focus. 🚀🍅
+
+## 🖼 Screen
+
+![pomodoro desktop](https://github.com/julekwinn/Pomodoro-Web-Application/assets/126665165/50e79bf8-fbfc-4ad0-b750-95db2d0325d1)
+
+![pomodoro app mobile](https://github.com/julekwinn/Pomodoro-Web-Application/assets/126665165/e11279e8-bfb6-4ed5-871d-28fae89c6444)
 
