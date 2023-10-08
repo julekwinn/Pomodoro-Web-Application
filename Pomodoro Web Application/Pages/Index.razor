@@ -1,15 +1,11 @@
 ﻿@page "/"
 
-
-
 @if (!isRunning)
 {
     <body>
         <div class="container">
             <div class="column ">
                 <h2 @onclick="StartSession" class="button-text-run animacja point font">FOCUS</h2>
-                @*  <h2 class="button-text animacja point">STOP</h2>
-            <h2 class="button-text animacja point">FOCUS</h2> *@
             </div>
             <div class="column">
                 <h2 class="font second-text">@remainingMinutes</h2>
