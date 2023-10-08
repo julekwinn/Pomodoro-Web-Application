@@ -36,7 +36,7 @@ This project was created by Juliusz Winnicki.
 
 ## 📬 Contact
 
-If you have any questions or suggestions regarding the Plain Pomodoro Application, please contact us at julek.winn@gmail.com.
+If you have any questions or suggestions regarding the Pomodoro Application, please contact us at julek.winn@gmail.com.
 
 ## 🙏 Acknowledgments
 
